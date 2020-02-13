@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "네비게이션",
+    "githubUrl": "https://github.com/bbonkr/react-native-expo-navigation.git"
   }
 }
